@@ -1,0 +1,314 @@
+{
+  "project_info": {
+    "project_number": "230290164435",
+    "project_id": "partick-9c8d1",
+    "storage_bucket": "partick-9c8d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:303e86810728a462572226",
+        "android_client_info": {
+          "package_name": "com.ig.eagle_eye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:ff98d333234eceba572226",
+        "android_client_info": {
+          "package_name": "com.ig.mi_track_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:105ca9c8d9d5a4bc572226",
+        "android_client_info": {
+          "package_name": "com.ig.spot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:71db7e3f22524da1572226",
+        "android_client_info": {
+          "package_name": "com.ig.spotit_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:66c8a4eb675e51e7572226",
+        "android_client_info": {
+          "package_name": "com.ig.spotit_tb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:14911535927aa098572226",
+        "android_client_info": {
+          "package_name": "com.ig.velo_nav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:b0fef97dc6e56804572226",
+        "android_client_info": {
+          "package_name": "com.ig.ztrack_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:8c0fb781e1626342572226",
+        "android_client_info": {
+          "package_name": "com.igps.moc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:8e47a0b73eb7425a572226",
+        "android_client_info": {
+          "package_name": "com.maxmom.city_ride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:45cb2f4c57d1ff65572226",
+        "android_client_info": {
+          "package_name": "com.maxmom.mm_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:01898995165858bb572226",
+        "android_client_info": {
+          "package_name": "com.maxmon.rijer_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:3e8164179650758d572226",
+        "android_client_info": {
+          "package_name": "com.ufhaven.haven_gps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:0dc46f6ef93bd552572226",
+        "android_client_info": {
+          "package_name": "com.velo.wox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:8420dc2705220165572226",
+        "android_client_info": {
+          "package_name": "igps.spot.mini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:2bd31fca966a263f572226",
+        "android_client_info": {
+          "package_name": "in.crystalgpsglobal.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230290164435:android:0c9dbfda1f684b93572226",
+        "android_client_info": {
+          "package_name": "org.roadpin.newgps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW2VF5_YYUGJbicVBDWXtJRFN6NBN7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
